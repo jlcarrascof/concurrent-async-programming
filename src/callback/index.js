@@ -7,3 +7,7 @@ function calc(num1, num2, callback) {
 }
 
 console.log(calc(5, 10, sum)); // 15
+
+setTimeout(function() {
+    console.log("Hello JavaScript");
+}, 5000)
