@@ -1,0 +1,18 @@
+{
+  "name": "concurrent-async-programming",
+  "version": "1.0.0",
+  "description": "Curso de Programación Asíncrona con Javascript - Version 2 (Platzi)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "promises",
+    "callbacks",
+    "async",
+    "await"
+  ],
+  "author": "Javier J. Martínez F.",
+  "license": "ISC"
+}
