@@ -1,0 +1,21 @@
+{
+  "name": "concurrent-async-programming",
+  "version": "1.0.0",
+  "description": "Curso de Programación Asíncrona con Javascript - Version 2 (Platzi)",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/challenge.js"
+  },
+  "keywords": [
+    "javascript",
+    "promises",
+    "callbacks",
+    "async",
+    "await"
+  ],
+  "author": "Javier J. Martínez F.",
+  "license": "ISC",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
